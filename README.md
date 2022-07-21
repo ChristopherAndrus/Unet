@@ -4,7 +4,7 @@ author: Christopher.Andrus
 
 # Dataset
 * The dataset used in paper is composed of hundreds of data sample from various location. The dataset here is only for running the code for demonstration purpose, only to show the code is . The loss referred in the paper is trained on original data.<br >
-Since this is a demonstration dataset, the trained model is likely overfitting on result. But with real data, the result is much more improved. The data source doesn't allow full open, thus the original data can't be made public. We are only demonstrating the code authenticity.<br >
+* Since this is a demonstration dataset, the trained model is likely overfitting on result. But with real data, the result is much more improved. The data source doesn't allow full open, thus the original data can't be made public. We are only demonstrating the code authenticity.<br >
 
 # Use
 * Due to size limit( can't upload over 25 MB ), the model is not uploaded.<br >

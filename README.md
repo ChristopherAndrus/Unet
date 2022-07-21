@@ -1,6 +1,6 @@
 # Unet
-name: Unet 1.0<br >
-author: Christopher.Andrus
+* name: Unet 1.0<br >
+* author: Christopher.Andrus
 
 # Dataset
 * The dataset used in paper is composed of hundreds of data sample from various location. The dataset here is only for running the code for demonstration purpose, only to show the code is . The loss referred in the paper is trained on original data.<br >

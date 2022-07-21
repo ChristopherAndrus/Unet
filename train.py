@@ -23,7 +23,7 @@ model_sv_pth = CONFIG.model_path
 load_model_pth = CONFIG.load_model
 
 def train(model, trainloader, validloader, criterion, optimizer, epochs, device, load_pth, model_sv_pth, plot=True, visualize=False, load_model=False):
-    if load_model: model.load_state_dict(torch.load(load_pth))
+    #if load_model: model.load_state_dict(torch.load(load_pth))
     model.train()
     stats = []
     valid_loss_min = np.Inf
